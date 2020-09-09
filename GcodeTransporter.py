@@ -25,4 +25,3 @@ for f in tqdm.tqdm(files):
     
     if ext == '.gcode':
         shutil.move(f, dst)
-    
