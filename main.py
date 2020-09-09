@@ -1,5 +1,6 @@
+# system functions and shell utility
 import os, shutil
-#pass in a path and it gives you all files within path
+# pass in a path and it gives you all files within path
 import glob
 # File visualization bar
 import tqdm
